@@ -1,0 +1,8 @@
+6
+# with open(os.path.join(app.static_folder, "data2", "company2.json"), "r") as f:
+    #     data = json.load(f)
+
+
+# <!-- {% if not loop.last %} -->
+
+# with open(os.path.join(app.static_folder, "data", "company.json"), "r") as json_data:
