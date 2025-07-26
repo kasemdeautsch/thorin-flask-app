@@ -1,0 +1,9 @@
+# Ignore virtual environment directories
+
+__pycache__/
+# Ignore Python cache files
+# The '/' at the end identifies it as a directory, and so will therefore ignore everything within
+# that folder as well.
+env.py
+*.pyc
+# Ignore compiled Python files
